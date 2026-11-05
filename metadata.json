@@ -1,0 +1,6 @@
+{
+  "name": "รายงานผลดำเนินงานศูนย์บริการ เครือบ้านดอนปิยะ",
+  "description": "ระบบรายงานผลดำเนินงานฝ่ายศูนย์บริการรายเดือน แดชบอร์ดเปรียบเทียบผลดำเนินงานหลายมุมมอง และตั้งเป้าหมาย KPI เครือบ้านดอนปิยะ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
